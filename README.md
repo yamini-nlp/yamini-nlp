@@ -1,4 +1,4 @@
-# Yamini | AI Engineer & Full-Stack Developer  
+# Yamini | AI/ML Engineer & Full-Stack Developer  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Building+Reliable+LLM+Systems;AI+Systems+%7C+Machine+Learning+%7C+NLP" />
@@ -8,7 +8,7 @@
 
 ## 👋 About Me  
 
-AI Engineer focused on **LLMs, system reliability, and full-stack AI products**.  
+AI/ML Engineer focused on **LLMs, system reliability, and full-stack AI products**.  
 
 > Not just what AI can do — but whether it can be trusted.
 
