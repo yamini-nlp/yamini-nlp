@@ -67,13 +67,11 @@ AI Engineer focused on **LLMs, system reliability, and full-stack AI products**.
 ## 🌐 Connect  
 
 <p align="center">
-  <a href="yamini-portfolio-ten.vercel.app">
+  <a href="https://github.com/yamireddy04/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/yamini-gabu/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
  
