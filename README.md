@@ -1,7 +1,7 @@
 # Yamini | AI Engineer & Full-Stack Developer  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=Applied+AI+Engineer;Building+Reliable+LLM+Systems;Full-Stack+Developer;AI Systems+%7C+Machine Learning+%7C+NLP" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=Applied+AI+Engineer;Building+Reliable+LLM+Systems;Full-Stack+Developer;AISystems+%7C+MachineLearning+%7C+NLP" />
 </p>
 
 ---
