@@ -16,7 +16,7 @@ AI/ML Engineer focused on **LLMs, system reliability, and full-stack AI products
 
 ## ⚡ What I’m Building  
 
-- 🧪 LLM Reliability Lab → Evaluate hallucinations & accuracy  
+- 🚀 PrepSphere → AI-Powered Interview Intelligence Platform
 - 📚 Prism → RAG-based research assistant  
 - 📝 MindNook → Sentiment Aware Digital Diary
   
