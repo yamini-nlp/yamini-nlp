@@ -59,7 +59,7 @@ AI/ML Engineer focused on **LLMs, system reliability, and full-stack AI products
 ## 🔥 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamireddy04&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamini-nlp&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
