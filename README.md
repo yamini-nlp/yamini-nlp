@@ -11,47 +11,49 @@
 
 ---
 
-CS graduate researching a specific problem: AI systems deployed 
-in applied settings fail in ways that aggregate accuracy metrics 
-do not capture. My work builds systems that make these failures 
-visible, measurable, and explainable.
+CS graduate. I study how AI systems fail when sentiment, confidence,
+and surface fluency masks the signal that actually matters — user
+intent, factual grounding, and decision-relevant uncertainty.
 
 ---
 
 ## Research
 
-Three preprints on sentiment analysis, intent modeling, and 
-human-AI communication. All self-initiated during undergraduate 
+Three preprints on sentiment analysis, intent modeling, and
+human-AI communication. All self-initiated during undergraduate
 study.
 
-| Paper | Venue | Implementation |
-|-------|-------|----------------|
-| [A System-Level Framework for Sentiment-Aware Reflective Writing Systems: Modeling Temporal Emotional Patterns with Interpretability and Ethical Safety](https://doi.org/10.36227/techrxiv.177274130.07417144/v1) | TechRxiv · IEEE | MindNook (pinned) |
-| [Beyond Surface Affect: Why Sentiment Detection Alone is Insufficient for Intent Interpretation in Human-AI Communication](https://doi.org/10.36227/techrxiv.177274129.99249714/v1) | TechRxiv · IEEE | Under active development |
-| [Comparative Sentiment Analysis of YouTube Transcripts and User Comments: Failure Modes and Interpretability in Public Discourse](https://doi.org/10.2139/ssrn.6344859) | SSRN | YouTube Sentiment Analysis (pinned) |
+| Paper | Venue | Links | Implementation |
+|-------|-------|-------|----------------|
+| **Sentiment-Aware Reflective Writing Systems** — formalizes the gap between sentiment polarity S(x) and intent interpretation I(x,C,G,H); proposes utility-theoretic response selection with configurable asymmetric cost weights | TechRxiv · IEEE | [DOI](https://doi.org/10.36227/techrxiv.177274130.07417144/v1) | MindNook (pinned) |
+| **Beyond Surface Affect** — proves formally that sentiment detection does not imply intent interpretation; identifies four canonical failure modes with deployed prototype observations | TechRxiv · IEEE | [DOI](https://doi.org/10.36227/techrxiv.177274129.99249714/v1) | Under active development |
+| **YouTube Transcript vs Comment Sentiment** — dual-model pipeline documenting divergence patterns across five content domains; failure modes in public discourse analysis | SSRN | [DOI](https://doi.org/10.2139/ssrn.6344859) | [Repo](https://github.com/yamireddy04/youtube-sentiment-analysis-ai) |
 
 ---
 
 ## Projects
 
-Six applied systems across NLP, LLM evaluation, clinical AI, 
-and retrieval-augmented generation. Each addresses a specific 
-failure mode or reliability gap in deployed AI systems.
-
-↓ Pinned repositories below
+| Project | What it addresses |
+|---------|-------------------|
+| [LLM Reliability Lab](https://github.com/yamireddy04/llm-reliability-lab) | Hallucination benchmarking across LLaMA 3, Mixtral, Gemma 2 — chain-of-thought prompting halved hallucination rate vs zero-shot |
+| [MindNook](https://github.com/yamireddy04/MindNook-HCJ) | Prototype of published TechRxiv framework — five-layer NLP architecture with utility-theoretic action selection and ethical filter |
+| [Fake News Detector](https://github.com/yamireddy04/fakenews_detector) | Multi-signal fusion: XLM-RoBERTa + Google Fact Check API + propagation graph features on LIAR dataset |
+| [PrognosAI](https://github.com/yamireddy04/Prognos-AI) | Clinical NLP: 30-day readmission prediction from discharge notes — three pipelines, phrase-level explainability |
+| [Prism](https://github.com/yamireddy04/prism) | RAG pipeline with claim-level hallucination detection — unsupported claims flagged before reaching the user |
+| [PrepSphere](https://github.com/yamireddy04/PrepSphere) | Async AI generation platform — origin of behavioural-linguistic divergence observations in TechRxiv preprint (2026) |
 
 ---
 
 ## Technical Areas
 
-NLP · Transformer Fine-tuning · LLM Evaluation · Hallucination Detection · Retrieval-Augmented Generation · Clinical AI · Sentiment Analysis
-
-Intent Modeling · PyTorch · scikit-learn · FAISS · FastAPI · Next.js
+`NLP` `Transformer Fine-tuning` `LLM Evaluation` `Hallucination Detection`
+`Retrieval-Augmented Generation` `Clinical AI` `Sentiment Analysis`
+`Intent Modeling` `PyTorch` `scikit-learn` `FAISS` `FastAPI` `Next.js`
 
 ---
 
 <div align="center">
 
-*CS graduate · 3 preprints · 6 applied systems · NLP & LLM reliability*
+*CS graduate · 3 preprints · 6 deployed systems · NLP & LLM reliability*
 
 </div>
