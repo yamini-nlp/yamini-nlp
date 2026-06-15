@@ -1,5 +1,4 @@
 <div align="center">
-
 # Yamini G
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=zYTRPeIAAAAJ)
