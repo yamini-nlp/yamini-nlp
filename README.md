@@ -1,77 +1,57 @@
-# Yamini | AI/ML Engineer & Full-Stack Developer  
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI/ML+Engineer;Building+Reliable+LLM+Systems;AI+Systems+%7C+Machine+Learning+%7C+NLP" />
-</p>
+# Yamini G
 
----
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=zYTRPeIAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-9662-0219)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamini-gabu/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yamini-portfolio-ten.vercel.app)
 
-## 👋 About Me  
-
-AI/ML Engineer focused on **LLMs, system reliability, and full-stack AI products**.  
-
-> Not just what AI can do — but whether it can be trusted.
+</div>
 
 ---
 
-## ⚡ What I’m Building  
-
-- 🚀 PrepSphere → AI-Powered Interview Intelligence Platform
-- 📚 Prism → RAG-based research assistant  
-- 📝 MindNook → Sentiment Aware Digital Diary
-  
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nextjs,nodejs,react,tailwind,docker,git,postgres" />
-</p>
+CS graduate researching a specific problem: AI systems deployed 
+in applied settings fail in ways that aggregate accuracy metrics 
+do not capture. My work builds systems that make these failures 
+visible, measurable, and explainable.
 
 ---
 
-## 📌 Featured Projects  
+## Research
 
-### 📝 MindNook  
-> AI-powered knowledge + thinking workspace  
-- Structured idea capture  
-- AI-assisted reasoning  
-- Personal knowledge system  
+Three preprints on sentiment analysis, intent modeling, and 
+human-AI communication. All self-initiated during undergraduate 
+study.
 
----
-
-### 🚀 PrepSphere  
-> Interview preparation platform  
-- Structured prep workflows  
-- Real-world question sets  
-- Career-focused system design  
+| Paper | Venue | Implementation |
+|-------|-------|----------------|
+| [A System-Level Framework for Sentiment-Aware Reflective Writing Systems: Modeling Temporal Emotional Patterns with Interpretability and Ethical Safety](https://doi.org/10.36227/techrxiv.177274130.07417144/v1) | TechRxiv · IEEE | MindNook (pinned) |
+| [Beyond Surface Affect: Why Sentiment Detection Alone is Insufficient for Intent Interpretation in Human-AI Communication](https://doi.org/10.36227/techrxiv.177274129.99249714/v1) | TechRxiv · IEEE | Under active development |
+| [Comparative Sentiment Analysis of YouTube Transcripts and User Comments: Failure Modes and Interpretability in Public Discourse](https://doi.org/10.2139/ssrn.6344859) | SSRN | YouTube Sentiment Analysis (pinned) |
 
 ---
 
-### 🧪 LLM Reliability Lab  
-> AI evaluation platform  
-- Hallucination detection  
-- Prompt strategy benchmarking  
-- Multi-model comparison  
+## Projects
+
+Six applied systems across NLP, LLM evaluation, clinical AI, 
+and retrieval-augmented generation. Each addresses a specific 
+failure mode or reliability gap in deployed AI systems.
+
+↓ Pinned repositories below
 
 ---
 
-## 🔥 Contribution Graph  
+## Technical Areas
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamini-nlp&theme=tokyo-night&hide_border=true"/>
-</p>
+NLP · Transformer Fine-tuning · LLM Evaluation · Hallucination Detection · Retrieval-Augmented Generation · Clinical AI · Sentiment Analysis
+
+Intent Modeling · PyTorch · scikit-learn · FAISS · FastAPI · Next.js
 
 ---
 
-## 🌐 Connect  
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/yamireddy04/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yamini-gabu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
- 
+*CS graduate · 3 preprints · 6 applied systems · NLP & LLM reliability*
+
+</div>
