@@ -40,7 +40,7 @@ study.
 | [Fake News Detector](https://github.com/yamireddy04/fakenews_detector) | Multi-signal fusion: XLM-RoBERTa + Google Fact Check API + propagation graph features on LIAR dataset |
 | [PrognosAI](https://github.com/yamireddy04/Prognos-AI) | Clinical NLP: 30-day readmission prediction from discharge notes — three pipelines, phrase-level explainability |
 | [Prism](https://github.com/yamireddy04/prism) | RAG pipeline with claim-level hallucination detection — unsupported claims flagged before reaching the user |
-| [PrepSphere](https://github.com/yamireddy04/PrepSphere) | Async AI generation platform — origin of behavioural-linguistic divergence observations in TechRxiv preprint (2026) |
+| [PrepSphere](https://github.com/yamireddy04/PrepSphere) | Async AI interview-prep platform — schema-constrained LLM generation, BullMQ queue orchestration, 99.4% JSON validation success rate |
 
 ---
 
